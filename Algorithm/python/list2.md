@@ -1,4 +1,4 @@
-# List append
+# List append, remove
 
 > append
 
